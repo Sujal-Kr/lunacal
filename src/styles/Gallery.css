@@ -1,0 +1,28 @@
+.gallery-image{
+    filter: grayscale(100%);
+
+}
+
+
+
+
+.gallery-addBtn-inner{
+    box-shadow: inset 5px 5px 10px rgba(255, 255, 255, 0.2);
+}
+.gallery-addBtn-drop{
+    background: #6F787C;
+    background: #00000033;
+    background: #FFFFFF;
+    background: linear-gradient(139.14deg, #303439 12.4%, #161718 94.96%);
+    background: #171717;
+    background: #FFFFFF08;
+
+
+
+}
+.gallery-addBtn-dropTwo{
+    box-shadow: -5px -5px 10px rgba(255, 255, 255, 0.15);
+    background: linear-gradient(139.14deg, #303439 12.4%, #161718 94.96%);
+
+}
+
